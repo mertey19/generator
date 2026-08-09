@@ -58,6 +58,8 @@ p { margin-top: 0; }
 .button:hover { transform: translateY(-2px); }
 .button-primary { color: var(--ink); background: var(--accent); }
 .button-primary:hover { background: var(--accent-hover); }
+.button-whatsapp { color: #fff; background: #25d366; box-shadow: 0 14px 30px rgba(37, 211, 102, 0.24); }
+.button-whatsapp:hover { color: #fff; background: #1ebe5d; }
 .button-outline { color: #fff; border-color: rgba(255,255,255,0.32); background: rgba(255,255,255,0.07); }
 .button-outline:hover { color: var(--ink); background: #fff; }
 .hero-card { padding: 1.4rem; color: var(--ink); background: rgba(255,255,255,0.96); border: 1px solid rgba(255,255,255,0.2); border-radius: 9px; box-shadow: 0 28px 65px rgba(0,0,0,0.28); }
