@@ -29,9 +29,8 @@
 <meta name="twitter:image" content="https://www.xn--erensanjeneratr-mtb.com.tr/erensan.png">
 <link rel="canonical" href="https://www.xn--erensanjeneratr-mtb.com.tr/">
 <link rel="alternate" hreflang="tr-TR" href="https://www.xn--erensanjeneratr-mtb.com.tr/">
-<link rel="preload" as="image" href="erensan.png" fetchpriority="high">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111827'/%3E%3Cpath d='M16 43h32v6H16zM19 15h26v7H27v6h16v7H27v8h-8z' fill='%23F4B400'/%3E%3C/svg%3E">
-<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preload" as="image" href="erensan.webp" type="image/webp" fetchpriority="high">
+<link rel="stylesheet" href="utilities.css">
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -767,14 +766,14 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 </button>
 <div class="nav-links" id="nav-links">
 <a href="#home" class="nav-link">Ana Sayfa</a>
-<a href="#about" class="nav-link">Kurumsal</a>
+<a href="hakkimizda.html" class="nav-link">Kurumsal</a>
 <a href="#services" class="nav-link">Hizmetler</a>
 <a href="#rental" class="nav-link">Kiralık Jeneratör</a>
 <a href="#products" class="nav-link">Ürünler</a>
-<a href="#gallery" class="nav-link">Galeri</a>
+<a href="referanslar.html" class="nav-link">Saha Çalışmaları</a>
 <a href="blog.html" class="nav-link">Blog</a>
 <a href="#faq" class="nav-link">SSS</a>
-<a href="#contact" class="nav-link">İletişim</a>
+<a href="iletisim.html" class="nav-link">İletişim</a>
 <div class="social-icons">
 <a href="tel:+905349373979" aria-label="Telefon"><i class="fas fa-phone-alt"></i></a>
 <a href="https://wa.me/905349373979?text=Merhaba%2C%20jenerat%C3%B6r%20teklifi%20almak%20istiyorum." target="_blank" rel="noopener" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
@@ -786,7 +785,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 </nav>
 <main>
 <section id="home" class="hero-section relative overflow-hidden">
-<img src="erensan.png" alt="Erensan Jeneratör Mersin satış ve kiralama ürünleri" class="hero-bg" width="1536" height="1024" fetchpriority="high">
+<img src="erensan.webp" alt="Erensan Jeneratör Mersin satış ve kiralama ürünleri" class="hero-bg" width="1536" height="1024" fetchpriority="high" decoding="async">
 <div class="hero-overlay"></div>
 <div class="hero-content">
 <div>
@@ -837,7 +836,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 </div>
 </div>
 <div class="about-image">
-<img src="dukkan.png" alt="Mersin Erensan Jeneratör servis ve satış merkezi" width="2040" height="920" loading="lazy">
+<img src="dukkan.webp" alt="Mersin Erensan Jeneratör servis ve satış merkezi" width="2040" height="920" loading="lazy" decoding="async">
 <div class="about-image-badge">Satış, kiralama, kurulum, bakım ve yedek parça tek çatı altında.</div>
 </div>
 </div>
@@ -859,7 +858,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 <div class="service-highlight"><i class="fas fa-truck-fast"></i><h3>Acil Servis</h3><p>Kritik enerji kesintilerinde hızlı müdahale ve çözüm odaklı servis.</p></div>
 <div class="service-highlight"><i class="fas fa-clipboard-check"></i><h3>Kontrol ve Muayene</h3><p>Mevcut jeneratör sistemleriniz için teknik durum kontrolü ve raporlama.</p></div>
 <div class="service-highlight"><i class="fas fa-rotate"></i><h3>İkinci El Satış</h3><p>İhtiyaçlarınıza uygun ikinci el jeneratör seçenekleri için güvenilir danışmanlık.</p></div>
-<div class="service-highlight"><i class="fas fa-gears"></i><h3>Yedek Parça</h3><p>Orijinal ve uyumlu yedek parça tedariği ile servis sürekliliği.</p></div>
+<article class="service-highlight"><i class="fas fa-gears"></i><h3><a href="mersin-jenerator-yedek-parca.html">Mersin Jeneratör Yedek Parça</a></h3><p>Etiket ve model bilgisine göre bakım, motor, elektrik ve kontrol parçaları için teknik tespit.</p><a class="service-link" href="mersin-jenerator-yedek-parca.html">Yedek parça hizmetini inceleyin <span aria-hidden="true">→</span></a></article>
 </div>
 </div>
 </section>
@@ -921,7 +920,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 </div>
 <div class="product-grid">
 <article class="product-card"><img src="sanayitipi.webp" alt="Mersin sanayi tipi jeneratör satış çözümü" width="2816" height="1536" loading="lazy"><div class="p-6"><h3>Sanayi Tipi Jeneratörler</h3><p>Fabrika, tesis ve kesintisiz operasyon ihtiyaçları için dayanıklı güç çözümleri.</p><a href="mersin-jenerator-satis.html" class="btn btn-primary mt-5">Satış Detaylarını İnceleyin</a></div></article>
-<article class="product-card"><img src="kiralama.png" alt="Mersin kiralık jeneratör stok ve saha çözümü" width="1920" height="1080" loading="lazy"><div class="p-6"><h3>Kiralama Filosu</h3><p>Geçici enerji ihtiyacı olan projeler için hızlı sevk edilebilir kiralık jeneratör desteği.</p><a href="mersin-jenerator-kiralama.html" class="btn btn-primary mt-5">Kiralama Detaylarını İnceleyin</a></div></article>
+<article class="product-card"><img src="kiralama.webp" alt="Mersin kiralık jeneratör stok ve saha çözümü" width="1920" height="1080" loading="lazy" decoding="async"><div class="p-6"><h3>Kiralama Filosu</h3><p>Geçici enerji ihtiyacı olan projeler için hızlı sevk edilebilir kiralık jeneratör desteği.</p><a href="mersin-jenerator-kiralama.html" class="btn btn-primary mt-5">Kiralama Detaylarını İnceleyin</a></div></article>
 <article class="product-card"><img src="kurumsal.webp" alt="Mersin kurumsal jeneratör servis ve bakım çözümü" width="1536" height="1024" loading="lazy"><div class="p-6"><h3>Kurumsal Güç Sistemleri</h3><p>Satış, kurulum, bakım ve servis süreçleri tek elden yönetilen kurumsal çözümler.</p><a href="mersin-jenerator-servisi.html" class="btn btn-primary mt-5">Servis Detaylarını İnceleyin</a></div></article>
 </div>
 <div class="text-center"><span class="product-note"><i class="fas fa-certificate"></i>%100 Yerli İmalat Jeneratörlerimiz Mevcuttur</span></div>
@@ -938,18 +937,18 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 <div class="gallery-slider-container" aria-label="Erensan Jeneratör fotoğraf galerisi">
 <div class="swiper gallery-slider">
 <div class="swiper-wrapper">
-<div class="swiper-slide"><img src="galeri1.png" alt="Erensan Jeneratör Mersin saha çalışması 1" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri2.png" alt="Erensan Jeneratör Mersin saha çalışması 2" width="2048" height="923" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri3.png" alt="Erensan Jeneratör Mersin saha çalışması 3" width="2048" height="923" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri4.png" alt="Erensan Jeneratör teknik servis çalışması 4" width="1920" height="1080" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri5.png" alt="Erensan Jeneratör teknik servis çalışması 5" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri6.png" alt="Erensan Jeneratör teknik servis çalışması 6" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri7.png" alt="Jeneratör kurulum ve servis çalışması 7" width="920" height="2040" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri8.png" alt="Jeneratör kurulum ve servis çalışması 8" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri9.png" alt="Jeneratör kurulum ve servis çalışması 9" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri10.png" alt="Erensan Jeneratör atölye çalışması 10" width="2040" height="920" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri11.png" alt="Erensan Jeneratör atölye çalışması 11" width="943" height="943" loading="lazy"></div>
-<div class="swiper-slide"><img src="galeri12.png" alt="Erensan Jeneratör atölye çalışması 12" width="600" height="408" loading="lazy"></div>
+<div class="swiper-slide"><img src="galeri1.webp" alt="Erensan Jeneratör Mersin saha çalışması 1" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri2.webp" alt="Erensan Jeneratör Mersin saha çalışması 2" width="2048" height="923" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri3.webp" alt="Erensan Jeneratör Mersin saha çalışması 3" width="2048" height="923" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri4.webp" alt="Erensan Jeneratör teknik servis çalışması 4" width="1920" height="1080" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri5.webp" alt="Erensan Jeneratör teknik servis çalışması 5" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri6.webp" alt="Erensan Jeneratör teknik servis çalışması 6" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri7.webp" alt="Jeneratör kurulum ve servis çalışması 7" width="920" height="2040" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri8.webp" alt="Jeneratör kurulum ve servis çalışması 8" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri9.webp" alt="Jeneratör kurulum ve servis çalışması 9" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri10.webp" alt="Erensan Jeneratör atölye çalışması 10" width="2040" height="920" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri11.webp" alt="Erensan Jeneratör atölye çalışması 11" width="943" height="943" loading="lazy" decoding="async"></div>
+<div class="swiper-slide"><img src="galeri12.webp" alt="Erensan Jeneratör atölye çalışması 12" width="600" height="408" loading="lazy" decoding="async"></div>
 </div>
 </div>
 <div class="swiper-button-prev" aria-label="Önceki galeri görseli"></div>
@@ -1017,7 +1016,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 <p class="lead">Jeneratör kiralama, periyodik bakım ve doğru cihaz seçimi hakkında sahada işe yarayan pratik bilgiler.</p>
 </div>
 <div class="product-grid">
-<article class="product-card"><img src="kiralama.png" alt="Mersin jeneratör kiralama fiyatları rehberi" width="1920" height="1080" loading="lazy"><div class="p-6"><span class="section-heading">Kiralama</span><h3>Mersin Jeneratör Kiralama Fiyatları</h3><p>Kapasite, süre, nakliye, yakıt ve teknik desteğin kiralama teklifine etkisi.</p><a href="blog/mersin-jenerator-kiralama-fiyatlari.html" class="btn btn-primary mt-5">Yazıyı Okuyun</a></div></article>
+<article class="product-card"><img src="kiralama.webp" alt="Mersin jeneratör kiralama fiyatları rehberi" width="1920" height="1080" loading="lazy" decoding="async"><div class="p-6"><span class="section-heading">Kiralama</span><h3>Mersin Jeneratör Kiralama Fiyatları</h3><p>Kapasite, süre, nakliye, yakıt ve teknik desteğin kiralama teklifine etkisi.</p><a href="blog/mersin-jenerator-kiralama-fiyatlari.html" class="btn btn-primary mt-5">Yazıyı Okuyun</a></div></article>
 <article class="product-card"><img src="sanayitipi.webp" alt="Sanayi tesisi için jeneratör kVA hesabı" width="2816" height="1536" loading="lazy"><div class="p-6"><span class="section-heading">Teknik Seçim</span><h3>Sanayi Tesisi İçin Jeneratör kVA Hesabı</h3><p>Kritik yük, motor kalkışı ve eş zamanlı kullanımla doğru kapasite seçimi.</p><a href="blog/sanayi-tesisi-icin-jenerator-kva-hesabi.html" class="btn btn-primary mt-5">Yazıyı Okuyun</a></div></article>
 <article class="product-card"><img src="kurumsal.webp" alt="Mersin yazında jeneratör hararet sorunu" width="1536" height="1024" loading="lazy"><div class="p-6"><span class="section-heading">Arıza ve Bakım</span><h3>Mersin Yazında Jeneratör Neden Hararet Yapar?</h3><p>Hava akışı, radyatör, soğutma sıvısı ve aşırı yük kaynaklı sorunlar.</p><a href="blog/mersin-yazinda-jenerator-hararet-sorunu.html" class="btn btn-primary mt-5">Yazıyı Okuyun</a></div></article>
 </div>
@@ -1086,8 +1085,8 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
 <p class="mb-4 max-w-xs">Mersin'de jeneratör satışı, kiralama, kurulum, bakım, yedek parça ve 7/24 teknik servis çözümleri.</p>
 <div class="footer-social flex gap-2"><a href="https://www.facebook.com/share/195bvhdLev/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a><a href="https://www.instagram.com/hazal.yasin.azra/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a><a href="https://wa.me/905349373979" target="_blank" rel="noopener" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a><a href="tel:+905349373979" aria-label="Telefon"><i class="fas fa-phone-alt"></i></a></div>
 </div>
-<div class="footer-links"><span class="font-bold text-white mb-2 block">Hızlı Bağlantılar</span><ul class="space-y-1"><li><a href="/">Ana Sayfa</a></li><li><a href="#about">Kurumsal</a></li><li><a href="#services">Hizmetler</a></li><li><a href="#local-services">Mersin Hizmet Bölgesi</a></li><li><a href="#products">Ürünler</a></li><li><a href="blog.html">Blog</a></li><li><a href="#contact">İletişim</a></li></ul></div>
-<div class="footer-links"><span class="font-bold text-white mb-2 block">Mersin Jeneratör Hizmetleri</span><ul class="space-y-1"><li><a href="mersin-jenerator-satis.html">Jeneratör Satışı</a></li><li><a href="mersin-jenerator-kiralama.html">Jeneratör Kiralama</a></li><li><a href="mersin-jenerator-servisi.html">7/24 Teknik Servis</a></li><li><a href="mersin-jenerator-bakimi.html">Periyodik Bakım</a></li><li>Yedek Parça</li><li>İkinci El Satış</li></ul></div>
+<div class="footer-links"><span class="font-bold text-white mb-2 block">Hızlı Bağlantılar</span><ul class="space-y-1"><li><a href="/">Ana Sayfa</a></li><li><a href="hakkimizda.html">Hakkımızda</a></li><li><a href="referanslar.html">Saha Çalışmaları</a></li><li><a href="#local-services">Mersin Hizmet Bölgesi</a></li><li><a href="blog.html">Blog</a></li><li><a href="iletisim.html">İletişim ve Konum</a></li></ul></div>
+<div class="footer-links"><span class="font-bold text-white mb-2 block">Mersin Jeneratör Hizmetleri</span><ul class="space-y-1"><li><a href="mersin-jenerator-satis.html">Jeneratör Satışı</a></li><li><a href="mersin-jenerator-kiralama.html">Jeneratör Kiralama</a></li><li><a href="mersin-jenerator-servisi.html">7/24 Teknik Servis</a></li><li><a href="mersin-jenerator-bakimi.html">Periyodik Bakım</a></li><li><a href="mersin-jenerator-yedek-parca.html">Yedek Parça</a></li><li>İkinci El Satış</li></ul></div>
 <div class="footer-contact"><span class="font-bold text-white mb-2 block">İletişim</span><ul class="space-y-1"><li><i class="fas fa-map-marker-alt mr-2"></i>Toroslar / Mersin</li><li><i class="fas fa-phone-alt mr-2"></i><a href="tel:+905349373979">0534 937 39 79</a></li><li><i class="fas fa-envelope mr-2"></i><a href="mailto:erensangenerator@gmail.com">erensangenerator@gmail.com</a></li><li><i class="fas fa-clock mr-2"></i>07:00-19:00 | Servis 7/24</li></ul></div>
 </div>
 <div class="text-center text-xs text-gray-400 mt-8">© 2026 Erensan Jeneratör ve Makine Sanayi. Tüm hakları saklıdır. · Gizlilik Politikası · KVKK</div>
@@ -1102,6 +1101,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
       "url": "https://www.xn--erensanjeneratr-mtb.com.tr/",
       "name": "Erensan Jeneratör",
       "alternateName": "Erensan Jeneratör ve Makine Sanayi",
+      "publisher": { "@id": "https://www.xn--erensanjeneratr-mtb.com.tr/#business" },
       "inLanguage": "tr-TR"
     },
     {
@@ -1110,8 +1110,13 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
       "name": "Erensan Jeneratör ve Makine Sanayi",
       "url": "https://www.xn--erensanjeneratr-mtb.com.tr/",
       "logo": "https://www.xn--erensanjeneratr-mtb.com.tr/icon-512.png",
-      "image": "https://www.xn--erensanjeneratr-mtb.com.tr/erensan.png",
+      "image": [
+        "https://www.xn--erensanjeneratr-mtb.com.tr/erensan.png",
+        "https://www.xn--erensanjeneratr-mtb.com.tr/dukkan.webp",
+        "https://www.xn--erensanjeneratr-mtb.com.tr/galeri1.webp"
+      ],
       "description": "Mersin'de jeneratör satış, kiralama, kurulum, bakım, yedek parça ve 7/24 teknik servis hizmetleri.",
+      "foundingDate": "2005",
       "telephone": "+905349373979",
       "email": "erensangenerator@gmail.com",
       "priceRange": "₺₺",
@@ -1132,7 +1137,7 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
         "@type": "ContactPoint",
         "telephone": "+905349373979",
         "contactType": "technical support",
-        "areaServed": "TR",
+        "areaServed": "Mersin",
         "availableLanguage": "Turkish"
       },
       "areaServed": [
@@ -1156,7 +1161,8 @@ body > *, section, footer, nav, .modern-navbar, .nav-container, .container, .her
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Kiralama", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-kiralama.html" } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Satış", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-satis.html" } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Servisi", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-servisi.html" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Bakımı", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-bakimi.html" } }
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Bakımı", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-bakimi.html" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Mersin Jeneratör Yedek Parça", "url": "https://www.xn--erensanjeneratr-mtb.com.tr/mersin-jenerator-yedek-parca.html" } }
         ]
       }
     },
