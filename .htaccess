@@ -1,9 +1,9 @@
 RewriteEngine On
 
-# Google'a tek ve tutarlı bir ana adres göster: HTTPS + www olmadan.
+# Google'a tek ve tutarli bir ana adres goster: HTTPS + www.
 RewriteCond %{HTTPS} !=on [OR]
-RewriteCond %{HTTP_HOST} ^www\.erensangenerator\.com$ [NC]
-RewriteRule ^ https://erensangenerator.com%{REQUEST_URI} [R=301,L,NE]
+RewriteCond %{HTTP_HOST} !^www\.xn--erensanjeneratr-mtb\.com\.tr$ [NC]
+RewriteRule ^ https://www.xn--erensanjeneratr-mtb.com.tr%{REQUEST_URI} [R=301,L,NE]
 
 AddDefaultCharset UTF-8
 Options -Indexes
