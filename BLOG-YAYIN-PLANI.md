@@ -28,6 +28,11 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 | 11 | Jeneratör Aküsü Neden Biter? Test ve Bakım Rehberi | Arıza ve bakım | Bakım ve servis |
 | 12 | Fabrika İçin Acil Enerji Planı Nasıl Hazırlanır? | Kurumsal iş sürekliliği | Satış, kiralama ve servis |
 
+## Hazırlık durumu
+
+- Hafta 1 — Yayında: `blog/mersin-jenerator-kiralama-fiyatlari.html`
+- Hafta 2 — Yerelde hazırlandı (10 Ağustos 2026), canlıya gönderilmedi: `blog/jenerator-calismiyor-guvenli-kontroller.html`
+
 ## Her yeni yazı için kontrol listesi
 
 1. Konu mevcut yazılardan farklı ve özgün mü?
