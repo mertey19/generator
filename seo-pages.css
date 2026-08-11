@@ -101,6 +101,7 @@ p { margin-top: 0; }
 .contact-option h2, .contact-option h3 { margin-bottom: 0.55rem; font-size: 1.1rem; }
 .contact-option p { margin-bottom: 1rem; color: var(--muted); }
 .map-frame { width: 100%; min-height: 430px; border: 0; border-radius: 9px; box-shadow: var(--shadow); }
+.map-actions { margin-top: 1.25rem; }
 .nap-list { display: grid; gap: 0.8rem; padding: 0; list-style: none; }
 .nap-list strong { display: block; color: var(--ink); }
 .check-list { display: grid; gap: 0.8rem; }
