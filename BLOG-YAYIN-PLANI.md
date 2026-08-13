@@ -31,7 +31,9 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 ## Hazırlık durumu
 
 - Hafta 1 — Yayında: `blog/mersin-jenerator-kiralama-fiyatlari.html`
-- Hafta 2 — Yerelde hazırlandı (10 Ağustos 2026), canlıya gönderilmedi: `blog/jenerator-calismiyor-guvenli-kontroller.html`
+- Hafta 2 — Yayında: `blog/jenerator-calismiyor-guvenli-kontroller.html`
+- Hafta 3 — Yayında (13 Ağustos 2026): `blog/kw-kva-farki-jenerator-secimi.html`
+- Ek Search Console konusu — Yayında (12 Ağustos 2026): `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
 
 ## Her yeni yazı için kontrol listesi
 
