@@ -40,6 +40,28 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/mersin-makine-sanayi-jenerator-secimi.html`
 - Ek Search Console konusu — Yayında (12 Ağustos 2026): `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
 
+## Mersin ilçe serisi
+
+İlçe sayfaları aynı metnin ad değiştirilmiş sürümü olmayacak. Her yazı ilçedeki baskın kullanım senaryosuna göre farklı bir kullanıcı sorusunu yanıtlayacak.
+
+| Sıra | İlçe | Özgün içerik odağı | Durum |
+|---|---|---|---|
+| 1 | Akdeniz | Liman-lojistik, depo, sanayi, ticari işletme ve şantiye | Yayında (19 Ağustos 2026) |
+| 2 | Toroslar | Sanayi atölyesi, şantiye, servis ve kırsal saha | Planlandı |
+| 3 | Yenişehir | Ofis, klinik, restoran ve sessiz yedek güç | Planlandı |
+| 4 | Mezitli | Site, mağaza, restoran ve otomatik yedekleme | Planlandı |
+| 5 | Tarsus | Sanayi, depo, tarım ve sulama | Planlandı |
+| 6 | Erdemli | Tarımsal sulama, paketleme, turizm ve işletme | Planlandı |
+| 7 | Silifke | Tarım, turizm, şantiye ve uzak saha enerjisi | Planlandı |
+| 8 | Anamur | Örtü altı tarım, paketleme ve soğuk zincir | Planlandı |
+| 9 | Mut | Sulama, tarımsal işleme ve kırsal işletme | Planlandı |
+| 10 | Bozyazı | Tarım, kıyı işletmesi ve kesinti planı | Planlandı |
+| 11 | Aydıncık | Turizm işletmesi ve uzak saha desteği | Planlandı |
+| 12 | Gülnar | Kırsal işletme, sulama ve uzun çalışma planı | Planlandı |
+| 13 | Çamlıyayla | Mevsimsel işletme, kırsal saha ve çevre koşulları | Planlandı |
+
+- Akdeniz — Yayında: `blog/akdeniz-mersin-jenerator-secimi.html`
+
 ## Her yeni yazı için kontrol listesi
 
 1. Konu mevcut yazılardan farklı ve özgün mü?
