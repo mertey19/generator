@@ -35,6 +35,9 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - Hafta 3 — Yayında (13 Ağustos 2026): `blog/kw-kva-farki-jenerator-secimi.html`
 - Hafta 4 — Yayında (16 Ağustos 2026): `blog/mersin-tarimsal-sulama-jenerator-secimi.html`
 - Hafta 5 — Yayında (19 Ağustos 2026): `blog/mersin-santiye-kiralik-jenerator-planlama.html`
+- Hafta 6 — Daha önce yayımlanmış eşdeğer konu (9 Ağustos 2026): `blog/mersin-yazinda-jenerator-hararet-sorunu.html`
+- Hafta 7 — Yayında (20 Ağustos 2026): `blog/otel-restoran-sessiz-jenerator-secimi.html`
+- Hafta 8 — Yayında (20 Ağustos 2026): `blog/otomatik-transfer-panosu-nedir.html`
 - Hafta 10 — Search Console verisiyle erkenden yayında (13 Ağustos 2026): `blog/ikinci-el-jenerator-alirken-kontrol-listesi.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/jenerator-fiyatlari-neye-gore-degisir.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/mersin-makine-sanayi-jenerator-secimi.html`
@@ -47,20 +50,32 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 | Sıra | İlçe | Özgün içerik odağı | Durum |
 |---|---|---|---|
 | 1 | Akdeniz | Liman-lojistik, depo, sanayi, ticari işletme ve şantiye | Yayında (19 Ağustos 2026) |
-| 2 | Toroslar | Sanayi atölyesi, şantiye, servis ve kırsal saha | Planlandı |
-| 3 | Yenişehir | Ofis, klinik, restoran ve sessiz yedek güç | Planlandı |
-| 4 | Mezitli | Site, mağaza, restoran ve otomatik yedekleme | Planlandı |
-| 5 | Tarsus | Sanayi, depo, tarım ve sulama | Planlandı |
-| 6 | Erdemli | Tarımsal sulama, paketleme, turizm ve işletme | Planlandı |
-| 7 | Silifke | Tarım, turizm, şantiye ve uzak saha enerjisi | Planlandı |
-| 8 | Anamur | Örtü altı tarım, paketleme ve soğuk zincir | Planlandı |
-| 9 | Mut | Sulama, tarımsal işleme ve kırsal işletme | Planlandı |
-| 10 | Bozyazı | Tarım, kıyı işletmesi ve kesinti planı | Planlandı |
-| 11 | Aydıncık | Turizm işletmesi ve uzak saha desteği | Planlandı |
-| 12 | Gülnar | Kırsal işletme, sulama ve uzun çalışma planı | Planlandı |
-| 13 | Çamlıyayla | Mevsimsel işletme, kırsal saha ve çevre koşulları | Planlandı |
+| 2 | Toroslar | Sanayi atölyesi, şantiye, servis ve kırsal saha | Yayında (20 Ağustos 2026) |
+| 3 | Yenişehir | Ofis, klinik, restoran ve sessiz yedek güç | Yayında (20 Ağustos 2026) |
+| 4 | Mezitli | Site, mağaza, restoran ve otomatik yedekleme | Yayında (20 Ağustos 2026) |
+| 5 | Tarsus | Sanayi, depo, tarım ve sulama | Yayında (20 Ağustos 2026) |
+| 6 | Erdemli | Tarımsal sulama, paketleme, turizm ve işletme | Yayında (20 Ağustos 2026) |
+| 7 | Silifke | Tarım, turizm, şantiye ve uzak saha enerjisi | Yayında (20 Ağustos 2026) |
+| 8 | Anamur | Örtü altı tarım, paketleme ve soğuk zincir | Yayında (20 Ağustos 2026) |
+| 9 | Mut | Sulama, tarımsal işleme ve kırsal işletme | Yayında (20 Ağustos 2026) |
+| 10 | Bozyazı | Tarım, kıyı işletmesi ve kesinti planı | Yayında (20 Ağustos 2026) |
+| 11 | Aydıncık | Turizm işletmesi ve uzak saha desteği | Yayında (20 Ağustos 2026) |
+| 12 | Gülnar | Kırsal işletme, sulama ve uzun çalışma planı | Yayında (20 Ağustos 2026) |
+| 13 | Çamlıyayla | Mevsimsel işletme, kırsal saha ve çevre koşulları | Yayında (20 Ağustos 2026) |
 
 - Akdeniz — Yayında: `blog/akdeniz-mersin-jenerator-secimi.html`
+- Toroslar — Yayında: `blog/toroslar-mersin-jenerator-secimi.html`
+- Yenişehir — Yayında: `blog/yenisehir-mersin-jenerator-secimi.html`
+- Mezitli — Yayında: `blog/mezitli-mersin-jenerator-secimi.html`
+- Tarsus — Yayında: `blog/tarsus-mersin-jenerator-secimi.html`
+- Erdemli — Yayında: `blog/erdemli-mersin-jenerator-secimi.html`
+- Silifke — Yayında: `blog/silifke-mersin-jenerator-secimi.html`
+- Anamur — Yayında: `blog/anamur-mersin-jenerator-secimi.html`
+- Mut — Yayında: `blog/mut-mersin-jenerator-secimi.html`
+- Bozyazı — Yayında: `blog/bozyazi-mersin-jenerator-secimi.html`
+- Aydıncık — Yayında: `blog/aydincik-mersin-jenerator-secimi.html`
+- Gülnar — Yayında: `blog/gulnar-mersin-jenerator-secimi.html`
+- Çamlıyayla — Yayında: `blog/camliyayla-mersin-jenerator-secimi.html`
 
 ## Her yeni yazı için kontrol listesi
 
