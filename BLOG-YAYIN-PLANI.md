@@ -77,6 +77,13 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - Gülnar — Yayında: `blog/gulnar-mersin-jenerator-secimi.html`
 - Çamlıyayla — Yayında: `blog/camliyayla-mersin-jenerator-secimi.html`
 
+## Search Console Sorgularından Ek Konular
+
+- Mersin jeneratör servisleri — Yayında (20 Ağustos 2026): `blog/mersin-jenerator-servisi-secerken.html`
+- kVA ne demek / kVA nedir — Mevcut kapsamlı rehber: `blog/kw-kva-farki-jenerator-secimi.html`
+- Mersin jeneratör firmaları — Mevcut kapsamlı rehber: `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
+- Sanayi / makine sanayi — Mevcut kapsamlı rehber: `blog/mersin-makine-sanayi-jenerator-secimi.html`
+
 ## Her yeni yazı için kontrol listesi
 
 1. Konu mevcut yazılardan farklı ve özgün mü?
