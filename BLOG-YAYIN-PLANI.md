@@ -38,7 +38,10 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - Hafta 6 — Daha önce yayımlanmış eşdeğer konu (9 Ağustos 2026): `blog/mersin-yazinda-jenerator-hararet-sorunu.html`
 - Hafta 7 — Yayında (20 Ağustos 2026): `blog/otel-restoran-sessiz-jenerator-secimi.html`
 - Hafta 8 — Yayında (20 Ağustos 2026): `blog/otomatik-transfer-panosu-nedir.html`
+- Hafta 9 — Yayında (27 Ağustos 2026): `blog/dizel-jenerator-yakit-tuketimi.html`
 - Hafta 10 — Search Console verisiyle erkenden yayında (13 Ağustos 2026): `blog/ikinci-el-jenerator-alirken-kontrol-listesi.html`
+- Hafta 11 — Yayında (27 Ağustos 2026): `blog/jenerator-akusu-neden-biter.html`
+- Hafta 12 — Yayında (27 Ağustos 2026): `blog/fabrika-acil-enerji-plani.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/jenerator-fiyatlari-neye-gore-degisir.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/mersin-makine-sanayi-jenerator-secimi.html`
 - Ek Search Console konusu — Yayında (12 Ağustos 2026): `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
