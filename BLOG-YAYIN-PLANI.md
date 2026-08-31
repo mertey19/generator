@@ -42,6 +42,8 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - Hafta 10 — Search Console verisiyle erkenden yayında (13 Ağustos 2026): `blog/ikinci-el-jenerator-alirken-kontrol-listesi.html`
 - Hafta 11 — Yayında (27 Ağustos 2026): `blog/jenerator-akusu-neden-biter.html`
 - Hafta 12 — Yayında (27 Ağustos 2026): `blog/fabrika-acil-enerji-plani.html`
+- Ek konut konusu — Yayında (31 Ağustos 2026): `blog/apartman-sitesi-jenerator-secimi.html`
+- Ek bakım konusu — Yayında (31 Ağustos 2026): `blog/jenerator-periyodik-test-calistirma.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/jenerator-fiyatlari-neye-gore-degisir.html`
 - Ek Search Console konusu — Yayında (13 Ağustos 2026): `blog/mersin-makine-sanayi-jenerator-secimi.html`
 - Ek Search Console konusu — Yayında (12 Ağustos 2026): `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
