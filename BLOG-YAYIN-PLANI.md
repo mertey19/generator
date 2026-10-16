@@ -52,6 +52,8 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 
 İlçe sayfaları aynı metnin ad değiştirilmiş sürümü olmayacak. Her yazı ilçedeki baskın kullanım senaryosuna göre farklı bir kullanıcı sorusunu yanıtlayacak.
 
+- İlçe rehber merkezi — Yayında (16 Ekim 2026): `mersin-ilceleri-jenerator.html`
+
 | Sıra | İlçe | Özgün içerik odağı | Durum |
 |---|---|---|---|
 | 1 | Akdeniz | Liman-lojistik, depo, sanayi, ticari işletme ve şantiye | Yayında (19 Ağustos 2026) |
@@ -88,6 +90,12 @@ Yayın günü: Her pazartesi 09:00 (Europe/Istanbul)
 - kVA ne demek / kVA nedir — Mevcut kapsamlı rehber: `blog/kw-kva-farki-jenerator-secimi.html`
 - Mersin jeneratör firmaları — Mevcut kapsamlı rehber: `blog/mersin-jenerator-firmalari-sanayi-rehberi.html`
 - Sanayi / makine sanayi — Mevcut kapsamlı rehber: `blog/mersin-makine-sanayi-jenerator-secimi.html`
+
+## Jeneratör arıza ve bilgilendirme serisi
+
+- Marş basıyor ama çalışmıyor — Yayında (16 Ekim 2026): `blog/jenerator-mars-basiyor-calismiyor.html`
+- Çalışıyor ama elektrik üretmiyor — Yayında (16 Ekim 2026): `blog/jenerator-calisiyor-elektrik-uretmiyor.html`
+- Yağ basıncı alarmı — Yayında (16 Ekim 2026): `blog/jenerator-yag-basinci-alarmi.html`
 
 ## Her yeni yazı için kontrol listesi
 

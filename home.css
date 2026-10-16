@@ -122,7 +122,9 @@ p { margin-top: 0; }
 .guide-card h3 { font-size: 1.8rem; }
 .guide-card p { color: var(--muted); }
 .districts { display: flex; flex-wrap: wrap; gap: .55rem; }
-.districts span { padding: .48rem .75rem; border: 1px solid var(--line); border-radius: 999px; background: #fff; color: var(--ink-soft); font-size: .9rem; font-weight: 750; }
+.districts span, .districts a { padding: .48rem .75rem; border: 1px solid var(--line); border-radius: 999px; background: #fff; color: var(--ink-soft); font-size: .9rem; font-weight: 750; }
+.districts a { transition: border-color .2s, color .2s, transform .2s; }
+.districts a:hover { color: var(--ink); border-color: rgba(244,180,0,.75); transform: translateY(-1px); }
 
 .article-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .article-card { overflow: hidden; }

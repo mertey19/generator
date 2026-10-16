@@ -117,7 +117,9 @@ p { margin-top: 0; }
 .process-card h3, .use-card h3, .related-card h3 { margin-bottom: 0.45rem; font-size: 1.08rem; }
 .process-card p, .use-card p, .related-card p { margin: 0; color: var(--muted); font-size: 0.95rem; }
 .districts { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.25rem; }
-.districts span { padding: 0.5rem 0.75rem; border: 1px solid var(--line); border-radius: 999px; background: #fff; font-size: 0.9rem; font-weight: 800; }
+.districts span, .districts a { padding: 0.5rem 0.75rem; border: 1px solid var(--line); border-radius: 999px; background: #fff; font-size: 0.9rem; font-weight: 800; }
+.districts a { color: var(--ink); transition: border-color 0.2s, color 0.2s, transform 0.2s; }
+.districts a:hover { color: #765600; border-color: rgba(244,180,0,0.75); transform: translateY(-1px); }
 .related-card { display: flex; min-height: 170px; flex-direction: column; transition: transform 0.2s, border-color 0.2s; }
 .related-card:hover { transform: translateY(-3px); border-color: rgba(244,180,0,0.65); }
 .related-card .arrow { margin-top: auto; padding-top: 1rem; color: #8a6500; font-weight: 900; }
